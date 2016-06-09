@@ -1,0 +1,29 @@
+{
+  "name": "namespace-it",
+  "version": "1.0.0",
+  "description": "Namespace the Salesforce Objects in query or Apex code or Visualforce Page/Components",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilmurali/namespace-it.git"
+  },
+  "keywords": [
+    "salesforce",
+    "apex",
+    "soql",
+    "visualforce"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilmurali/namespace-it/issues"
+  },
+  "homepage": "https://github.com/sunilmurali/namespace-it#readme",
+  "dependencies":{
+    "express":"",
+    "body-parser":""
+  }
+}
